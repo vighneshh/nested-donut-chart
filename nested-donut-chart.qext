@@ -1,0 +1,16 @@
+{
+	"name": "Nested Donut Chart",
+	"description": "Radial Bar Chart extension using Amcharts js library",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "Vighnesh Gawad",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "https://github.com/vighneshh/nested-donut-chart",
+	"preview": "logo.png",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
