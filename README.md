@@ -15,11 +15,11 @@ Please rate & give feedback! If you want to contribute feel free to message me o
 
 ## Screenshots
 ### With one measure and Dataviz theme 
-![Qliksense Nested Donut Chart](img/radialbarchart.png)
+![Qliksense Nested Donut Chart](img/donut1.png)
 ### With two measures and Frozen theme 
-![Qliksense Nested Donut Chart](img/radialbarchart.png)
+![Qliksense Nested Donut Chart](img/donut2.png)
 ### With three measures and Moonrisekingdom theme 
-![Qliksense Nested Donut Chart](img/radialbarchart.png)
+![Qliksense Nested Donut Chart](img/donut3.png)
 ### Settings
 ![Settings ](img/settings.png)
 
